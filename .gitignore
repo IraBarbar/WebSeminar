@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+img\Bitcoin.svg.png
+img\bitcoin_100K_large.jpg
+*img
